@@ -1,4 +1,3 @@
-function initializeTree() {
 HIGHLIGHT    = 1;
 USETEXTLINKS = 1;
 STARTALLOPEN = 0;
@@ -132,4 +131,3 @@ PATH_LINKS   = './ARPO_Data/';
     AddModel(150, group                            , GetFolder('<b>Presta��o de contas Veiculos Sem NF</b>'                      , PATH_LINKS+'M3467E64E-323F-4256-98C9-308CA3AAA239_Z075.HTML'), false);//LEVEL-ONE-MODEL******************
     AddModel(150, group                            , GetFolder('<b>Presta��o de contas Viagem</b>'                               , PATH_LINKS+'M884CCE6B-2D18-4A45-A09F-2A092B0EA770_Z075.HTML'), false);//LEVEL-ONE-MODEL******************
     AddModel(150, group                            , GetFolder('<b>Solicitar Seguro e Escoltas</b>'                              , PATH_LINKS+'MADB5A395-362D-49D5-99D9-F1FE95245893_Z075.HTML'), false);//LEVEL-ONE-MODEL******************
-}
